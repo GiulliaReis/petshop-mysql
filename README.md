@@ -37,6 +37,13 @@ O repositório contém o arquivo:
 - Relacionamentos entre tabelas
 - Organização e estruturação de dados
 
+## 🗂️ Diagrama do Banco de Dados
+
+O diagrama abaixo apresenta a modelagem do banco de dados
+do Pet Shop, incluindo suas tabelas e relacionamentos.
+
+![Diagrama do Pet Shop](diagrama-petshop.png)
+
 ## 🎓 Contexto acadêmico
 
 Projeto desenvolvido como atividade prática da disciplina
